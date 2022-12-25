@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Website under construction. <br/><br/>Official Home of WebDevSingh.<br/><br/> <h3>Learn to Code with Technical Web Development Tutorials.</h3> 
+          Website under construction. <br/><br/>Official Home of WebDevSingh.<br/><br/> 
         </h1>
 
         
